@@ -1,18 +1,4 @@
-// import React from 'react'
-// import Draggable from 'react-draggable'
 
-// import Combined from './components/Combined'
-// const App = () => {
-//   return (
-//     <div>
-//  <Combined/>
-//     </div>
-//   )
-// }
-
-// export default App;
-
-// AppRouter.jsx
 import React from 'react';
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 import Staticwebpage from './components/Staticwebpage';
