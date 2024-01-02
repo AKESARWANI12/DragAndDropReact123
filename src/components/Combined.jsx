@@ -36,13 +36,7 @@ const Combined = () => {
     setDraggedItems(updatedItems);
   };
 
-  // const handleSave = () => {
-  //   // Save updated items to local storage
-  //   localStorage.setItem('portfolioItems', JSON.stringify(draggedItems));
 
-  //   // Redirect to the static webpage
-  //   navigate('/static');
-  // };
   const handleSave = () => {
     // Save updated items to local storage
     localStorage.setItem('portfolioItems', JSON.stringify(draggedItems));
