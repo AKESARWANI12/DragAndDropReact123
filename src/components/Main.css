@@ -12,35 +12,15 @@
     align-items:center;
     
 }
- /* .ayush{ 
-    background-color: #15ae43; 
-    /* height:3%;
-    width:10%; */
-    /* color:rgb(205, 56, 56); 
-     display:flex; 
-    justify-content: flex-end;
-    align-items: flex;
-}  */
-/* p{
-    align-items:center;
-} */
-/* .kriti{
-    background-color: #15ae43; 
-    /* height:3%;
-    width:10%; */
-    /* color:rgb(205, 56, 56); 
-     display:flex; 
-    justify-content: flex-end;
-    align-items: flex;
-} */
+
   .ayush{
-    /* Optional: Add styling for the center div */
+   
     width:50%;
   }
   
   .kriti {
     margin-left: auto; /* Push to the right */
-    /* Optional: Add styling for the top right div */
+   
     margin-top:10px;
   }
   
